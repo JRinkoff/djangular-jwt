@@ -1,0 +1,12 @@
+*.pyc
+.env
+mysite.db
+env/bin/
+env/lib/
+env/include/
+env/pip-selfcheck.json
+bower_components/
+node_modules/
+server/__pycache__/
+server/api/__pycache__/
+server/api/migrations/__pycache__/
